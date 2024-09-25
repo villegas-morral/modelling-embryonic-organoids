@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This repository contains the code, figures and report of my master thesis, titled "Center-based modelling of embryonic organoid development", developed as part of the Master's degree in Advanced Mathematics and Mathematical Engineering at Universitat Politècnica de Catalunya. It was carried out at the Computational Biology and Complex Systems research group ([BIOCOM-SC](https://biocomsc.upc.edu/en), and supervised by [David Oriola Santandreu](https://davidoriola.mystrikingly.com/). The model has been programmed using [CellBasedModels.jl](https://github.com/dsb-lab/CellBasedModels.jl), the Julia package for multicellular modelling.
+This repository contains the code, figures and report of my master thesis, titled "Center-based modelling of embryonic organoid development", developed as part of the Master's degree in Advanced Mathematics and Mathematical Engineering at Universitat Politècnica de Catalunya. It was carried out at the Computational Biology and Complex Systems research group ([BIOCOM-SC](https://biocomsc.upc.edu/en)), and supervised by [David Oriola Santandreu](https://davidoriola.mystrikingly.com/). The model has been programmed using [CellBasedModels.jl](https://github.com/dsb-lab/CellBasedModels.jl), the Julia package for multicellular modelling.
 
 ## Installation process
 
@@ -40,8 +40,6 @@ Note that IJulia is only necessary to run the notebooks in Jupyter notebooks. Yo
 
 ## Examples
 
-Here are some examples of plots created using the code.
-
 Formation of an aggregate:
 
 ![](https://github.com/villegas-morral/masters-thesis/blob/d086ff95580073c4d3a6a28fdd8cde3903875bc3/figures/400-example-program/400-aggregate-formation.png)
@@ -51,7 +49,3 @@ Differentiation of an aggregate while it proliferates:
 ![](https://github.com/villegas-morral/masters-thesis/blob/d086ff95580073c4d3a6a28fdd8cde3903875bc3/figures/411-diff-adhesion-growing/411-aggregate-afaster-all.png)
 
 ![](https://github.com/villegas-morral/masters-thesis/blob/d086ff95580073c4d3a6a28fdd8cde3903875bc3/figures/411-diff-adhesion-growing/411-aggregate-afaster-b.png)
-
-Proportion of cells in each state over time:
-
-![](https://github.com/villegas-morral/masters-thesis/blob/d086ff95580073c4d3a6a28fdd8cde3903875bc3/figures/405-fate-proportions-average/405-proportions-simulation-cellcell-fp10-15ite.png)
