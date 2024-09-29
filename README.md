@@ -1,4 +1,4 @@
-# Center-based modelling of embryonic organoid development
+# Centre-based modelling of embryonic organoid development
 
 ![Language: Julia](https://img.shields.io/badge/language-Julia-ed207b)
 ![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-f37821)
@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This repository contains the code, figures and report of my master thesis, titled "Center-based modelling of embryonic organoid development", developed as part of the Master's degree in Advanced Mathematics and Mathematical Engineering at Universitat Politècnica de Catalunya. It was carried out at the Computational Biology and Complex Systems research group ([BIOCOM-SC](https://biocomsc.upc.edu/en)), and supervised by [David Oriola Santandreu](https://davidoriola.mystrikingly.com/). The model has been programmed using [CellBasedModels.jl](https://github.com/dsb-lab/CellBasedModels.jl), the Julia package for multicellular modelling.
+This repository contains the code, figures and report of my master thesis, titled "Centre-based modelling of embryonic organoid development", developed as part of the Master's degree in Advanced Mathematics and Mathematical Engineering at Universitat Politècnica de Catalunya. It was carried out at the Computational Biology and Complex Systems research group ([BIOCOM-SC](https://biocomsc.upc.edu/en)), and supervised by [David Oriola Santandreu](https://davidoriola.mystrikingly.com/). The model has been programmed using [CellBasedModels.jl](https://github.com/dsb-lab/CellBasedModels.jl), the Julia package for multicellular modelling.
 
 ## Installation process
 
